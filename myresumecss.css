@@ -1,0 +1,85 @@
+html{
+	background-color:#ffffcc;
+
+}
+
+
+#alexpicture{
+	float: right;
+	position:relative;
+}
+
+
+#aboutalexp{
+	margin-right: 700px;
+}
+
+#aboutalex{
+	margin-top: 50px;
+	border-bottom: solid;
+	background-color:#ccff99;
+}
+
+.abouteducation{
+	
+	margin-left: 150px;
+	border-left: solid;
+	padding-left: 30px;
+	/*vertical-align: top;*/
+	position:relative;
+	bottom: 35px;
+}
+
+.madskills{
+	margin-left: 150px;
+	border-left: solid;
+	padding-left: 30px;
+	position: relative;
+	bottom: 35px;
+}
+
+.exp{
+	margin-left: 150px;
+	border-left: solid;
+	padding-left: 30px;
+	position: relative;
+	bottom:35px;
+}
+
+.hobs{
+	margin-left: 150px;
+	border-left: solid;
+	padding-left: 30px;
+	position: relative;
+	bottom: 35px;
+}
+
+.refinfo{
+	margin-left: 150px;
+	border-left: solid;
+	padding-left: 30px;
+	position: relative;
+	bottom: 35px;
+}
+
+
+
+/*.edu{
+	display: inline-block;
+}
+
+.hobb{
+	display: inline-block;
+}
+
+.xp{
+	display: inline-block;
+}
+
+.kills{
+	display: inline-block;
+}
+
+.refer{
+	display: inline-block;
+}
